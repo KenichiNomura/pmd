@@ -1,0 +1,17 @@
+5
+2 2 2
+4 4 4 
+1.0
+1.2
+0.005
+10000
+1000
+--------------------------------------------
+mdmode: 0 initialize, 1 micro, 4 velocity scaling
+vproc[0],vproc[1],vproc[2]
+InitUcell[0],InitUcell[1],InitUcell[2]
+Density
+InitTemp
+DeltaT
+tepLimit
+tepAvg
